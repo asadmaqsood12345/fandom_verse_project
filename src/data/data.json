@@ -1,0 +1,1772 @@
+{
+  "categories": [
+    {
+      "id": "anime",
+      "name": "Anime",
+      "icon": "bi-stars",
+      "desc": "Japanese animation, characters, stories and releases.",
+      "gradient": "anime",
+      "colors": "#6b3dff,#b22cff"
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming",
+      "icon": "bi-controller",
+      "desc": "Games, characters, trailers and gaming culture.",
+      "gradient": "gaming",
+      "colors": "#007bff,#00c6ff"
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "icon": "bi-film",
+      "desc": "Cinema, franchises, trailers and movie characters.",
+      "gradient": "movies",
+      "colors": "#ef3b63,#ff8a3d"
+    },
+    {
+      "id": "tv",
+      "name": "TV Shows",
+      "icon": "bi-tv",
+      "desc": "Television worlds, episodes, characters and fandoms.",
+      "gradient": "tv",
+      "colors": "#13a085,#0b6bff"
+    },
+    {
+      "id": "kpop",
+      "name": "K-Pop",
+      "icon": "bi-music-note-beamed",
+      "desc": "Music, artists, releases and fan culture.",
+      "gradient": "kpop",
+      "colors": "#ff3b9d,#743cff"
+    },
+    {
+      "id": "comics",
+      "name": "Comics",
+      "icon": "bi-book-half",
+      "desc": "Superheroes, graphic stories and comic universes.",
+      "gradient": "comics",
+      "colors": "#f59e0b,#ef4444"
+    },
+    {
+      "id": "manga",
+      "name": "Manga",
+      "icon": "bi-journal-richtext",
+      "desc": "Manga series, characters and Japanese comic culture.",
+      "gradient": "manga",
+      "colors": "#10b981,#0ea5e9"
+    }
+  ],
+  "content": [
+    {
+      "id": "anime-article",
+      "cat": "anime",
+      "type": "article",
+      "title": "The Evolution of Modern Anime",
+      "desc": "A long-form anime feature covering stories, fan culture, creators and discovery ideas.",
+      "tags": [
+        "anime",
+        "featured",
+        "article"
+      ],
+      "featured": true,
+      "popularity": 95,
+      "date": "2026-09-01"
+    },
+    {
+      "id": "anime-character-1",
+      "cat": "anime",
+      "type": "character",
+      "title": "Naruto Uzumaki",
+      "desc": "Determined ninja who dreams of becoming Hokage.",
+      "series": "Naruto",
+      "bio": "Determined ninja who dreams of becoming Hokage.",
+      "traits": [
+        "Determined",
+        "Loyal",
+        "Energetic"
+      ],
+      "tags": [
+        "anime",
+        "naruto",
+        "character"
+      ],
+      "popularity": 90,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "anime-character-2",
+      "cat": "anime",
+      "type": "character",
+      "title": "Monkey D. Luffy",
+      "desc": "Adventurous captain chasing the One Piece.",
+      "series": "One Piece",
+      "bio": "Adventurous captain chasing the One Piece.",
+      "traits": [
+        "Brave",
+        "Funny",
+        "Loyal"
+      ],
+      "tags": [
+        "anime",
+        "one piece",
+        "character"
+      ],
+      "popularity": 86,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "anime-character-3",
+      "cat": "anime",
+      "type": "character",
+      "title": "Tanjiro Kamado",
+      "desc": "Compassionate swordsman protecting his sister.",
+      "series": "Demon Slayer",
+      "bio": "Compassionate swordsman protecting his sister.",
+      "traits": [
+        "Kind",
+        "Focused",
+        "Brave"
+      ],
+      "tags": [
+        "anime",
+        "demon slayer",
+        "character"
+      ],
+      "popularity": 82,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "anime-character-4",
+      "cat": "anime",
+      "type": "character",
+      "title": "Sailor Moon",
+      "desc": "Magical heroine who fights for justice and friendship.",
+      "series": "Sailor Moon",
+      "bio": "Magical heroine who fights for justice and friendship.",
+      "traits": [
+        "Caring",
+        "Courageous",
+        "Optimistic"
+      ],
+      "tags": [
+        "anime",
+        "sailor moon",
+        "character"
+      ],
+      "popularity": 78,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "anime-character-5",
+      "cat": "anime",
+      "type": "character",
+      "title": "Goku",
+      "desc": "Cheerful martial artist who seeks new challenges.",
+      "series": "Dragon Ball",
+      "bio": "Cheerful martial artist who seeks new challenges.",
+      "traits": [
+        "Strong",
+        "Cheerful",
+        "Competitive"
+      ],
+      "tags": [
+        "anime",
+        "dragon ball",
+        "character"
+      ],
+      "popularity": 74,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "anime-video",
+      "cat": "anime",
+      "type": "video",
+      "title": "Anime Trailer Spotlight",
+      "desc": "A media slot for Anime trailers and fan video content.",
+      "tags": [
+        "anime",
+        "trailer",
+        "video"
+      ],
+      "featured": true,
+      "popularity": 86,
+      "date": "2026-08-25",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "anime-audio",
+      "cat": "anime",
+      "type": "audio",
+      "title": "Anime Podcast Corner",
+      "desc": "A local demo audio clip for the Anime fandom section.",
+      "tags": [
+        "anime",
+        "podcast",
+        "audio"
+      ],
+      "popularity": 72,
+      "date": "2026-08-20",
+      "audioUrl": "/media/fandom-tone.wav"
+    },
+    {
+      "id": "gaming-article",
+      "cat": "gaming",
+      "type": "article",
+      "title": "Why Gaming Communities Matter",
+      "desc": "A long-form gaming feature covering stories, fan culture, creators and discovery ideas.",
+      "tags": [
+        "gaming",
+        "featured",
+        "article"
+      ],
+      "featured": true,
+      "popularity": 94,
+      "date": "2026-09-01"
+    },
+    {
+      "id": "gaming-character-1",
+      "cat": "gaming",
+      "type": "character",
+      "title": "Mario",
+      "desc": "Legendary platforming hero on colorful adventures.",
+      "series": "Super Mario",
+      "bio": "Legendary platforming hero on colorful adventures.",
+      "traits": [
+        "Brave",
+        "Friendly",
+        "Adventurous"
+      ],
+      "tags": [
+        "gaming",
+        "super mario",
+        "character"
+      ],
+      "popularity": 90,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "gaming-character-2",
+      "cat": "gaming",
+      "type": "character",
+      "title": "Kratos",
+      "desc": "Warrior whose journey spans gods and mythic worlds.",
+      "series": "God of War",
+      "bio": "Warrior whose journey spans gods and mythic worlds.",
+      "traits": [
+        "Powerful",
+        "Focused",
+        "Fierce"
+      ],
+      "tags": [
+        "gaming",
+        "god of war",
+        "character"
+      ],
+      "popularity": 86,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "gaming-character-3",
+      "cat": "gaming",
+      "type": "character",
+      "title": "Link",
+      "desc": "Heroic adventurer protecting the land of Hyrule.",
+      "series": "The Legend of Zelda",
+      "bio": "Heroic adventurer protecting the land of Hyrule.",
+      "traits": [
+        "Courageous",
+        "Skilled",
+        "Quiet"
+      ],
+      "tags": [
+        "gaming",
+        "the legend of zelda",
+        "character"
+      ],
+      "popularity": 82,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "gaming-character-4",
+      "cat": "gaming",
+      "type": "character",
+      "title": "Sonic",
+      "desc": "Fast blue hero who races to protect his world.",
+      "series": "Sonic",
+      "bio": "Fast blue hero who races to protect his world.",
+      "traits": [
+        "Fast",
+        "Confident",
+        "Energetic"
+      ],
+      "tags": [
+        "gaming",
+        "sonic",
+        "character"
+      ],
+      "popularity": 78,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "gaming-character-5",
+      "cat": "gaming",
+      "type": "character",
+      "title": "Master Chief",
+      "desc": "Legendary supersoldier facing galaxy-scale threats.",
+      "series": "Halo",
+      "bio": "Legendary supersoldier facing galaxy-scale threats.",
+      "traits": [
+        "Disciplined",
+        "Brave",
+        "Tactical"
+      ],
+      "tags": [
+        "gaming",
+        "halo",
+        "character"
+      ],
+      "popularity": 74,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "gaming-video",
+      "cat": "gaming",
+      "type": "video",
+      "title": "Gaming Trailer Spotlight",
+      "desc": "A media slot for Gaming trailers and fan video content.",
+      "tags": [
+        "gaming",
+        "trailer",
+        "video"
+      ],
+      "featured": true,
+      "popularity": 86,
+      "date": "2026-08-25",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "gaming-audio",
+      "cat": "gaming",
+      "type": "audio",
+      "title": "Gaming Podcast Corner",
+      "desc": "A local demo audio clip for the Gaming fandom section.",
+      "tags": [
+        "gaming",
+        "podcast",
+        "audio"
+      ],
+      "popularity": 72,
+      "date": "2026-08-20",
+      "audioUrl": "/media/fandom-tone.wav"
+    },
+    {
+      "id": "movies-article",
+      "cat": "movies",
+      "type": "article",
+      "title": "Building a Great Movie Franchise",
+      "desc": "A long-form movies feature covering stories, fan culture, creators and discovery ideas.",
+      "tags": [
+        "movies",
+        "featured",
+        "article"
+      ],
+      "featured": true,
+      "popularity": 93,
+      "date": "2026-09-01"
+    },
+    {
+      "id": "movies-character-1",
+      "cat": "movies",
+      "type": "character",
+      "title": "Batman",
+      "desc": "Detective and vigilante protecting Gotham City.",
+      "series": "DC",
+      "bio": "Detective and vigilante protecting Gotham City.",
+      "traits": [
+        "Intelligent",
+        "Determined",
+        "Strategic"
+      ],
+      "tags": [
+        "movies",
+        "dc",
+        "character"
+      ],
+      "popularity": 90,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "movies-character-2",
+      "cat": "movies",
+      "type": "character",
+      "title": "Spider-Man",
+      "desc": "Young hero balancing ordinary life with responsibility.",
+      "series": "Marvel",
+      "bio": "Young hero balancing ordinary life with responsibility.",
+      "traits": [
+        "Agile",
+        "Witty",
+        "Responsible"
+      ],
+      "tags": [
+        "movies",
+        "marvel",
+        "character"
+      ],
+      "popularity": 86,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "movies-character-3",
+      "cat": "movies",
+      "type": "character",
+      "title": "Wonder Woman",
+      "desc": "Amazon warrior associated with courage and justice.",
+      "series": "DC",
+      "bio": "Amazon warrior associated with courage and justice.",
+      "traits": [
+        "Strong",
+        "Compassionate",
+        "Brave"
+      ],
+      "tags": [
+        "movies",
+        "dc",
+        "character"
+      ],
+      "popularity": 82,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "movies-character-4",
+      "cat": "movies",
+      "type": "character",
+      "title": "Iron Man",
+      "desc": "Inventor who becomes a high-tech superhero.",
+      "series": "Marvel",
+      "bio": "Inventor who becomes a high-tech superhero.",
+      "traits": [
+        "Inventive",
+        "Confident",
+        "Clever"
+      ],
+      "tags": [
+        "movies",
+        "marvel",
+        "character"
+      ],
+      "popularity": 78,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "movies-character-5",
+      "cat": "movies",
+      "type": "character",
+      "title": "Jack Sparrow",
+      "desc": "Unpredictable pirate captain with a clever style.",
+      "series": "Pirates",
+      "bio": "Unpredictable pirate captain with a clever style.",
+      "traits": [
+        "Clever",
+        "Funny",
+        "Unpredictable"
+      ],
+      "tags": [
+        "movies",
+        "pirates",
+        "character"
+      ],
+      "popularity": 74,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "movies-video",
+      "cat": "movies",
+      "type": "video",
+      "title": "Movies Trailer Spotlight",
+      "desc": "A media slot for Movies trailers and fan video content.",
+      "tags": [
+        "movies",
+        "trailer",
+        "video"
+      ],
+      "featured": true,
+      "popularity": 86,
+      "date": "2026-08-25",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "movies-audio",
+      "cat": "movies",
+      "type": "audio",
+      "title": "Movies Podcast Corner",
+      "desc": "A local demo audio clip for the Movies fandom section.",
+      "tags": [
+        "movies",
+        "podcast",
+        "audio"
+      ],
+      "popularity": 72,
+      "date": "2026-08-20",
+      "audioUrl": "/media/fandom-tone.wav"
+    },
+    {
+      "id": "tv-article",
+      "cat": "tv",
+      "type": "article",
+      "title": "The Rise of TV Fandoms",
+      "desc": "A long-form tv shows feature covering stories, fan culture, creators and discovery ideas.",
+      "tags": [
+        "tv",
+        "featured",
+        "article"
+      ],
+      "featured": true,
+      "popularity": 92,
+      "date": "2026-09-01"
+    },
+    {
+      "id": "tv-character-1",
+      "cat": "tv",
+      "type": "character",
+      "title": "Eleven",
+      "desc": "Young character with extraordinary abilities.",
+      "series": "Stranger Things",
+      "bio": "Young character with extraordinary abilities.",
+      "traits": [
+        "Brave",
+        "Loyal",
+        "Powerful"
+      ],
+      "tags": [
+        "tv",
+        "stranger things",
+        "character"
+      ],
+      "popularity": 90,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "tv-character-2",
+      "cat": "tv",
+      "type": "character",
+      "title": "Wednesday Addams",
+      "desc": "Independent student with a sharp and mysterious style.",
+      "series": "Wednesday",
+      "bio": "Independent student with a sharp and mysterious style.",
+      "traits": [
+        "Independent",
+        "Clever",
+        "Mysterious"
+      ],
+      "tags": [
+        "tv",
+        "wednesday",
+        "character"
+      ],
+      "popularity": 86,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "tv-character-3",
+      "cat": "tv",
+      "type": "character",
+      "title": "Sherlock Holmes",
+      "desc": "Brilliant detective famous for observation and deduction.",
+      "series": "Sherlock",
+      "bio": "Brilliant detective famous for observation and deduction.",
+      "traits": [
+        "Analytical",
+        "Observant",
+        "Logical"
+      ],
+      "tags": [
+        "tv",
+        "sherlock",
+        "character"
+      ],
+      "popularity": 82,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "tv-character-4",
+      "cat": "tv",
+      "type": "character",
+      "title": "The Doctor",
+      "desc": "Time traveller who explores the universe and helps others.",
+      "series": "Doctor Who",
+      "bio": "Time traveller who explores the universe and helps others.",
+      "traits": [
+        "Curious",
+        "Kind",
+        "Clever"
+      ],
+      "tags": [
+        "tv",
+        "doctor who",
+        "character"
+      ],
+      "popularity": 78,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "tv-character-5",
+      "cat": "tv",
+      "type": "character",
+      "title": "Jon Snow",
+      "desc": "Honorable figure at the center of a fantasy saga.",
+      "series": "Game of Thrones",
+      "bio": "Honorable figure at the center of a fantasy saga.",
+      "traits": [
+        "Honorable",
+        "Brave",
+        "Loyal"
+      ],
+      "tags": [
+        "tv",
+        "game of thrones",
+        "character"
+      ],
+      "popularity": 74,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "tv-video",
+      "cat": "tv",
+      "type": "video",
+      "title": "TV Shows Trailer Spotlight",
+      "desc": "A media slot for TV Shows trailers and fan video content.",
+      "tags": [
+        "tv",
+        "trailer",
+        "video"
+      ],
+      "featured": true,
+      "popularity": 86,
+      "date": "2026-08-25",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "tv-audio",
+      "cat": "tv",
+      "type": "audio",
+      "title": "TV Shows Podcast Corner",
+      "desc": "A local demo audio clip for the TV Shows fandom section.",
+      "tags": [
+        "tv",
+        "podcast",
+        "audio"
+      ],
+      "popularity": 72,
+      "date": "2026-08-20",
+      "audioUrl": "/media/fandom-tone.wav"
+    },
+    {
+      "id": "kpop-article",
+      "cat": "kpop",
+      "type": "article",
+      "title": "K-Pop and Global Fan Culture",
+      "desc": "A long-form k-pop feature covering stories, fan culture, creators and discovery ideas.",
+      "tags": [
+        "kpop",
+        "featured",
+        "article"
+      ],
+      "featured": true,
+      "popularity": 91,
+      "date": "2026-09-01"
+    },
+    {
+      "id": "kpop-character-1",
+      "cat": "kpop",
+      "type": "character",
+      "title": "RM",
+      "desc": "Artist profile for the fictional FandomVerse music hub.",
+      "series": "K-Pop",
+      "bio": "Artist profile for the fictional FandomVerse music hub.",
+      "traits": [
+        "Creative",
+        "Thoughtful",
+        "Leader"
+      ],
+      "tags": [
+        "kpop",
+        "k-pop",
+        "character"
+      ],
+      "popularity": 90,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "kpop-character-2",
+      "cat": "kpop",
+      "type": "character",
+      "title": "Jin",
+      "desc": "Artist profile for the fictional FandomVerse music hub.",
+      "series": "K-Pop",
+      "bio": "Artist profile for the fictional FandomVerse music hub.",
+      "traits": [
+        "Warm",
+        "Funny",
+        "Dedicated"
+      ],
+      "tags": [
+        "kpop",
+        "k-pop",
+        "character"
+      ],
+      "popularity": 86,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "kpop-character-3",
+      "cat": "kpop",
+      "type": "character",
+      "title": "Jungkook",
+      "desc": "Artist profile for the fictional FandomVerse music hub.",
+      "series": "K-Pop",
+      "bio": "Artist profile for the fictional FandomVerse music hub.",
+      "traits": [
+        "Energetic",
+        "Talented",
+        "Focused"
+      ],
+      "tags": [
+        "kpop",
+        "k-pop",
+        "character"
+      ],
+      "popularity": 82,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "kpop-character-4",
+      "cat": "kpop",
+      "type": "character",
+      "title": "Lisa",
+      "desc": "Artist profile for the fictional FandomVerse music hub.",
+      "series": "K-Pop",
+      "bio": "Artist profile for the fictional FandomVerse music hub.",
+      "traits": [
+        "Dynamic",
+        "Confident",
+        "Creative"
+      ],
+      "tags": [
+        "kpop",
+        "k-pop",
+        "character"
+      ],
+      "popularity": 78,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "kpop-character-5",
+      "cat": "kpop",
+      "type": "character",
+      "title": "Rosé",
+      "desc": "Artist profile for the fictional FandomVerse music hub.",
+      "series": "K-Pop",
+      "bio": "Artist profile for the fictional FandomVerse music hub.",
+      "traits": [
+        "Expressive",
+        "Musical",
+        "Creative"
+      ],
+      "tags": [
+        "kpop",
+        "k-pop",
+        "character"
+      ],
+      "popularity": 74,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "kpop-video",
+      "cat": "kpop",
+      "type": "video",
+      "title": "K-Pop Trailer Spotlight",
+      "desc": "A media slot for K-Pop trailers and fan video content.",
+      "tags": [
+        "kpop",
+        "trailer",
+        "video"
+      ],
+      "featured": true,
+      "popularity": 86,
+      "date": "2026-08-25",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "kpop-audio",
+      "cat": "kpop",
+      "type": "audio",
+      "title": "K-Pop Podcast Corner",
+      "desc": "A local demo audio clip for the K-Pop fandom section.",
+      "tags": [
+        "kpop",
+        "podcast",
+        "audio"
+      ],
+      "popularity": 72,
+      "date": "2026-08-20",
+      "audioUrl": "/media/fandom-tone.wav"
+    },
+    {
+      "id": "comics-article",
+      "cat": "comics",
+      "type": "article",
+      "title": "A Beginner's Guide to Comics",
+      "desc": "A long-form comics feature covering stories, fan culture, creators and discovery ideas.",
+      "tags": [
+        "comics",
+        "featured",
+        "article"
+      ],
+      "featured": true,
+      "popularity": 90,
+      "date": "2026-09-01"
+    },
+    {
+      "id": "comics-character-1",
+      "cat": "comics",
+      "type": "character",
+      "title": "Superman",
+      "desc": "Powerful hero associated with hope and responsibility.",
+      "series": "DC",
+      "bio": "Powerful hero associated with hope and responsibility.",
+      "traits": [
+        "Powerful",
+        "Kind",
+        "Hopeful"
+      ],
+      "tags": [
+        "comics",
+        "dc",
+        "character"
+      ],
+      "popularity": 90,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "comics-character-2",
+      "cat": "comics",
+      "type": "character",
+      "title": "Wolverine",
+      "desc": "Fierce mutant hero with extraordinary healing ability.",
+      "series": "Marvel",
+      "bio": "Fierce mutant hero with extraordinary healing ability.",
+      "traits": [
+        "Fierce",
+        "Loyal",
+        "Resilient"
+      ],
+      "tags": [
+        "comics",
+        "marvel",
+        "character"
+      ],
+      "popularity": 86,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "comics-character-3",
+      "cat": "comics",
+      "type": "character",
+      "title": "The Flash",
+      "desc": "Speedster who protects Central City.",
+      "series": "DC",
+      "bio": "Speedster who protects Central City.",
+      "traits": [
+        "Fast",
+        "Brave",
+        "Optimistic"
+      ],
+      "tags": [
+        "comics",
+        "dc",
+        "character"
+      ],
+      "popularity": 82,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "comics-character-4",
+      "cat": "comics",
+      "type": "character",
+      "title": "Captain America",
+      "desc": "Superhero associated with courage, leadership and duty.",
+      "series": "Marvel",
+      "bio": "Superhero associated with courage, leadership and duty.",
+      "traits": [
+        "Leader",
+        "Brave",
+        "Disciplined"
+      ],
+      "tags": [
+        "comics",
+        "marvel",
+        "character"
+      ],
+      "popularity": 78,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "comics-character-5",
+      "cat": "comics",
+      "type": "character",
+      "title": "Storm",
+      "desc": "Mutant hero with weather-controlling abilities.",
+      "series": "Marvel",
+      "bio": "Mutant hero with weather-controlling abilities.",
+      "traits": [
+        "Powerful",
+        "Wise",
+        "Leader"
+      ],
+      "tags": [
+        "comics",
+        "marvel",
+        "character"
+      ],
+      "popularity": 74,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "comics-video",
+      "cat": "comics",
+      "type": "video",
+      "title": "Comics Trailer Spotlight",
+      "desc": "A media slot for Comics trailers and fan video content.",
+      "tags": [
+        "comics",
+        "trailer",
+        "video"
+      ],
+      "featured": true,
+      "popularity": 86,
+      "date": "2026-08-25",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "comics-audio",
+      "cat": "comics",
+      "type": "audio",
+      "title": "Comics Podcast Corner",
+      "desc": "A local demo audio clip for the Comics fandom section.",
+      "tags": [
+        "comics",
+        "podcast",
+        "audio"
+      ],
+      "popularity": 72,
+      "date": "2026-08-20",
+      "audioUrl": "/media/fandom-tone.wav"
+    },
+    {
+      "id": "manga-article",
+      "cat": "manga",
+      "type": "article",
+      "title": "Why Manga Inspires Global Fandoms",
+      "desc": "A long-form manga feature covering stories, fan culture, creators and discovery ideas.",
+      "tags": [
+        "manga",
+        "featured",
+        "article"
+      ],
+      "featured": true,
+      "popularity": 89,
+      "date": "2026-09-01"
+    },
+    {
+      "id": "manga-character-1",
+      "cat": "manga",
+      "type": "character",
+      "title": "Light Yagami",
+      "desc": "Highly intelligent character in a supernatural thriller.",
+      "series": "Death Note",
+      "bio": "Highly intelligent character in a supernatural thriller.",
+      "traits": [
+        "Intelligent",
+        "Ambitious",
+        "Strategic"
+      ],
+      "tags": [
+        "manga",
+        "death note",
+        "character"
+      ],
+      "popularity": 90,
+      "date": "2026-08-10"
+    },
+    {
+      "id": "manga-character-2",
+      "cat": "manga",
+      "type": "character",
+      "title": "Edward Elric",
+      "desc": "Young alchemist searching for a way to restore what was lost.",
+      "series": "Fullmetal Alchemist",
+      "bio": "Young alchemist searching for a way to restore what was lost.",
+      "traits": [
+        "Determined",
+        "Brave",
+        "Caring"
+      ],
+      "tags": [
+        "manga",
+        "fullmetal alchemist",
+        "character"
+      ],
+      "popularity": 86,
+      "date": "2026-08-11"
+    },
+    {
+      "id": "manga-character-3",
+      "cat": "manga",
+      "type": "character",
+      "title": "Izuku Midoriya",
+      "desc": "Student determined to become a great hero.",
+      "series": "My Hero Academia",
+      "bio": "Student determined to become a great hero.",
+      "traits": [
+        "Kind",
+        "Determined",
+        "Analytical"
+      ],
+      "tags": [
+        "manga",
+        "my hero academia",
+        "character"
+      ],
+      "popularity": 82,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "manga-character-4",
+      "cat": "manga",
+      "type": "character",
+      "title": "Ichigo Kurosaki",
+      "desc": "Teenager drawn into the world of Soul Reapers.",
+      "series": "Bleach",
+      "bio": "Teenager drawn into the world of Soul Reapers.",
+      "traits": [
+        "Protective",
+        "Brave",
+        "Strong"
+      ],
+      "tags": [
+        "manga",
+        "bleach",
+        "character"
+      ],
+      "popularity": 78,
+      "date": "2026-08-13"
+    },
+    {
+      "id": "manga-character-5",
+      "cat": "manga",
+      "type": "character",
+      "title": "Saitama",
+      "desc": "Hero whose overwhelming strength creates unusual challenges.",
+      "series": "One Punch Man",
+      "bio": "Hero whose overwhelming strength creates unusual challenges.",
+      "traits": [
+        "Strong",
+        "Calm",
+        "Funny"
+      ],
+      "tags": [
+        "manga",
+        "one punch man",
+        "character"
+      ],
+      "popularity": 74,
+      "date": "2026-08-14"
+    },
+    {
+      "id": "manga-video",
+      "cat": "manga",
+      "type": "video",
+      "title": "Manga Trailer Spotlight",
+      "desc": "A media slot for Manga trailers and fan video content.",
+      "tags": [
+        "manga",
+        "trailer",
+        "video"
+      ],
+      "featured": true,
+      "popularity": 86,
+      "date": "2026-08-25",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "manga-audio",
+      "cat": "manga",
+      "type": "audio",
+      "title": "Manga Podcast Corner",
+      "desc": "A local demo audio clip for the Manga fandom section.",
+      "tags": [
+        "manga",
+        "podcast",
+        "audio"
+      ],
+      "popularity": 72,
+      "date": "2026-08-20",
+      "audioUrl": "/media/fandom-tone.wav"
+    }
+  ],
+  "events": [
+    {
+      "id": "anime-event-1",
+      "cat": "anime",
+      "title": "Anime Fan Convention",
+      "date": "2027-07-12",
+      "location": "Karachi",
+      "desc": "A fictional sample anime community event for the FandomVerse demo."
+    },
+    {
+      "id": "anime-event-2",
+      "cat": "anime",
+      "title": "Anime Watch Party",
+      "date": "2027-08-13",
+      "location": "Lahore",
+      "desc": "A fictional sample anime community event for the FandomVerse demo."
+    },
+    {
+      "id": "anime-event-3",
+      "cat": "anime",
+      "title": "Anime Community Meetup",
+      "date": "2027-09-14",
+      "location": "Islamabad",
+      "desc": "A fictional sample anime community event for the FandomVerse demo."
+    },
+    {
+      "id": "gaming-event-1",
+      "cat": "gaming",
+      "title": "Gaming Fan Convention",
+      "date": "2027-07-13",
+      "location": "Karachi",
+      "desc": "A fictional sample gaming community event for the FandomVerse demo."
+    },
+    {
+      "id": "gaming-event-2",
+      "cat": "gaming",
+      "title": "Gaming Watch Party",
+      "date": "2027-08-14",
+      "location": "Lahore",
+      "desc": "A fictional sample gaming community event for the FandomVerse demo."
+    },
+    {
+      "id": "gaming-event-3",
+      "cat": "gaming",
+      "title": "Gaming Community Meetup",
+      "date": "2027-09-15",
+      "location": "Islamabad",
+      "desc": "A fictional sample gaming community event for the FandomVerse demo."
+    },
+    {
+      "id": "movies-event-1",
+      "cat": "movies",
+      "title": "Movies Fan Convention",
+      "date": "2027-07-14",
+      "location": "Karachi",
+      "desc": "A fictional sample movies community event for the FandomVerse demo."
+    },
+    {
+      "id": "movies-event-2",
+      "cat": "movies",
+      "title": "Movies Watch Party",
+      "date": "2027-08-15",
+      "location": "Lahore",
+      "desc": "A fictional sample movies community event for the FandomVerse demo."
+    },
+    {
+      "id": "movies-event-3",
+      "cat": "movies",
+      "title": "Movies Community Meetup",
+      "date": "2027-09-16",
+      "location": "Islamabad",
+      "desc": "A fictional sample movies community event for the FandomVerse demo."
+    },
+    {
+      "id": "tv-event-1",
+      "cat": "tv",
+      "title": "TV Shows Fan Convention",
+      "date": "2027-07-15",
+      "location": "Karachi",
+      "desc": "A fictional sample tv shows community event for the FandomVerse demo."
+    },
+    {
+      "id": "tv-event-2",
+      "cat": "tv",
+      "title": "TV Shows Watch Party",
+      "date": "2027-08-16",
+      "location": "Lahore",
+      "desc": "A fictional sample tv shows community event for the FandomVerse demo."
+    },
+    {
+      "id": "tv-event-3",
+      "cat": "tv",
+      "title": "TV Shows Community Meetup",
+      "date": "2027-09-17",
+      "location": "Islamabad",
+      "desc": "A fictional sample tv shows community event for the FandomVerse demo."
+    },
+    {
+      "id": "kpop-event-1",
+      "cat": "kpop",
+      "title": "K-Pop Fan Convention",
+      "date": "2027-07-16",
+      "location": "Karachi",
+      "desc": "A fictional sample k-pop community event for the FandomVerse demo."
+    },
+    {
+      "id": "kpop-event-2",
+      "cat": "kpop",
+      "title": "K-Pop Watch Party",
+      "date": "2027-08-17",
+      "location": "Lahore",
+      "desc": "A fictional sample k-pop community event for the FandomVerse demo."
+    },
+    {
+      "id": "kpop-event-3",
+      "cat": "kpop",
+      "title": "K-Pop Community Meetup",
+      "date": "2027-09-18",
+      "location": "Islamabad",
+      "desc": "A fictional sample k-pop community event for the FandomVerse demo."
+    },
+    {
+      "id": "comics-event-1",
+      "cat": "comics",
+      "title": "Comics Fan Convention",
+      "date": "2027-07-17",
+      "location": "Karachi",
+      "desc": "A fictional sample comics community event for the FandomVerse demo."
+    },
+    {
+      "id": "comics-event-2",
+      "cat": "comics",
+      "title": "Comics Watch Party",
+      "date": "2027-08-18",
+      "location": "Lahore",
+      "desc": "A fictional sample comics community event for the FandomVerse demo."
+    },
+    {
+      "id": "comics-event-3",
+      "cat": "comics",
+      "title": "Comics Community Meetup",
+      "date": "2027-09-19",
+      "location": "Islamabad",
+      "desc": "A fictional sample comics community event for the FandomVerse demo."
+    },
+    {
+      "id": "manga-event-1",
+      "cat": "manga",
+      "title": "Manga Fan Convention",
+      "date": "2027-07-18",
+      "location": "Karachi",
+      "desc": "A fictional sample manga community event for the FandomVerse demo."
+    },
+    {
+      "id": "manga-event-2",
+      "cat": "manga",
+      "title": "Manga Watch Party",
+      "date": "2027-08-19",
+      "location": "Lahore",
+      "desc": "A fictional sample manga community event for the FandomVerse demo."
+    },
+    {
+      "id": "manga-event-3",
+      "cat": "manga",
+      "title": "Manga Community Meetup",
+      "date": "2027-09-20",
+      "location": "Islamabad",
+      "desc": "A fictional sample manga community event for the FandomVerse demo."
+    }
+  ],
+  "products": [
+    {
+      "id": "product-anime",
+      "cat": "anime",
+      "name": "Anime Fan Collection",
+      "price": 2500,
+      "priceRange": [
+        "2500",
+        "3500"
+      ],
+      "desc": "Fictional sample merchandise for the temporary demo cart."
+    },
+    {
+      "id": "product-gaming",
+      "cat": "gaming",
+      "name": "Gaming Fan Collection",
+      "price": 4500,
+      "priceRange": [
+        "4500",
+        "6000"
+      ],
+      "desc": "Fictional sample merchandise for the temporary demo cart."
+    },
+    {
+      "id": "product-movies",
+      "cat": "movies",
+      "name": "Movies Fan Collection",
+      "price": 1500,
+      "priceRange": [
+        "1500",
+        "2500"
+      ],
+      "desc": "Fictional sample merchandise for the temporary demo cart."
+    },
+    {
+      "id": "product-tv",
+      "cat": "tv",
+      "name": "TV Shows Fan Collection",
+      "price": 1800,
+      "priceRange": [
+        "1800",
+        "3000"
+      ],
+      "desc": "Fictional sample merchandise for the temporary demo cart."
+    },
+    {
+      "id": "product-kpop",
+      "cat": "kpop",
+      "name": "K-Pop Fan Collection",
+      "price": 1200,
+      "priceRange": [
+        "1200",
+        "2200"
+      ],
+      "desc": "Fictional sample merchandise for the temporary demo cart."
+    },
+    {
+      "id": "product-comics",
+      "cat": "comics",
+      "name": "Comics Fan Collection",
+      "price": 5500,
+      "priceRange": [
+        "5500",
+        "7500"
+      ],
+      "desc": "Fictional sample merchandise for the temporary demo cart."
+    },
+    {
+      "id": "product-manga",
+      "cat": "manga",
+      "name": "Manga Fan Collection",
+      "price": 1400,
+      "priceRange": [
+        "1400",
+        "2400"
+      ],
+      "desc": "Fictional sample merchandise for the temporary demo cart."
+    }
+  ],
+  "chatbot": [
+    {
+      "q": "what is fandomverse",
+      "a": "FandomVerse is a responsive fandom information portal covering Anime, Gaming, Movies, TV Shows, K-Pop, Comics and Manga."
+    },
+    {
+      "q": "categories",
+      "a": "The seven categories are Anime, Gaming, Movies, TV Shows, K-Pop, Comics and Manga."
+    },
+    {
+      "q": "shop",
+      "a": "Open Merchandise to browse demo products and add them to the temporary cart. Checkout and payment are not included."
+    },
+    {
+      "q": "bookmark",
+      "a": "Use the bookmark icon on content. Bookmarks use Local Storage, while personal notes use Session Storage."
+    },
+    {
+      "q": "events",
+      "a": "Every category has three fictional sample events: a convention, a watch party and a community meetup."
+    },
+    {
+      "q": "search",
+      "a": "Global Search supports keywords plus category and content-type filters."
+    },
+    {
+      "q": "gallery",
+      "a": "Every category has a five-image gallery with a lightbox viewer."
+    },
+    {
+      "q": "hello",
+      "a": "Hello! Ask me about categories, search, galleries, bookmarks, events, releases or merchandise."
+    }
+  ],
+  "galleries": [
+    {
+      "id": "anime-gallery-1",
+      "cat": "anime",
+      "title": "Anime Art Gallery 1",
+      "alt": "Anime gallery artwork 1"
+    },
+    {
+      "id": "anime-gallery-2",
+      "cat": "anime",
+      "title": "Anime Art Gallery 2",
+      "alt": "Anime gallery artwork 2"
+    },
+    {
+      "id": "anime-gallery-3",
+      "cat": "anime",
+      "title": "Anime Art Gallery 3",
+      "alt": "Anime gallery artwork 3"
+    },
+    {
+      "id": "anime-gallery-4",
+      "cat": "anime",
+      "title": "Anime Art Gallery 4",
+      "alt": "Anime gallery artwork 4"
+    },
+    {
+      "id": "anime-gallery-5",
+      "cat": "anime",
+      "title": "Anime Art Gallery 5",
+      "alt": "Anime gallery artwork 5"
+    },
+    {
+      "id": "gaming-gallery-1",
+      "cat": "gaming",
+      "title": "Gaming Moments Gallery 1",
+      "alt": "Gaming gallery artwork 1"
+    },
+    {
+      "id": "gaming-gallery-2",
+      "cat": "gaming",
+      "title": "Gaming Moments Gallery 2",
+      "alt": "Gaming gallery artwork 2"
+    },
+    {
+      "id": "gaming-gallery-3",
+      "cat": "gaming",
+      "title": "Gaming Moments Gallery 3",
+      "alt": "Gaming gallery artwork 3"
+    },
+    {
+      "id": "gaming-gallery-4",
+      "cat": "gaming",
+      "title": "Gaming Moments Gallery 4",
+      "alt": "Gaming gallery artwork 4"
+    },
+    {
+      "id": "gaming-gallery-5",
+      "cat": "gaming",
+      "title": "Gaming Moments Gallery 5",
+      "alt": "Gaming gallery artwork 5"
+    },
+    {
+      "id": "movies-gallery-1",
+      "cat": "movies",
+      "title": "Movie Universe Gallery 1",
+      "alt": "Movies gallery artwork 1"
+    },
+    {
+      "id": "movies-gallery-2",
+      "cat": "movies",
+      "title": "Movie Universe Gallery 2",
+      "alt": "Movies gallery artwork 2"
+    },
+    {
+      "id": "movies-gallery-3",
+      "cat": "movies",
+      "title": "Movie Universe Gallery 3",
+      "alt": "Movies gallery artwork 3"
+    },
+    {
+      "id": "movies-gallery-4",
+      "cat": "movies",
+      "title": "Movie Universe Gallery 4",
+      "alt": "Movies gallery artwork 4"
+    },
+    {
+      "id": "movies-gallery-5",
+      "cat": "movies",
+      "title": "Movie Universe Gallery 5",
+      "alt": "Movies gallery artwork 5"
+    },
+    {
+      "id": "tv-gallery-1",
+      "cat": "tv",
+      "title": "TV Fandom Gallery 1",
+      "alt": "TV Shows gallery artwork 1"
+    },
+    {
+      "id": "tv-gallery-2",
+      "cat": "tv",
+      "title": "TV Fandom Gallery 2",
+      "alt": "TV Shows gallery artwork 2"
+    },
+    {
+      "id": "tv-gallery-3",
+      "cat": "tv",
+      "title": "TV Fandom Gallery 3",
+      "alt": "TV Shows gallery artwork 3"
+    },
+    {
+      "id": "tv-gallery-4",
+      "cat": "tv",
+      "title": "TV Fandom Gallery 4",
+      "alt": "TV Shows gallery artwork 4"
+    },
+    {
+      "id": "tv-gallery-5",
+      "cat": "tv",
+      "title": "TV Fandom Gallery 5",
+      "alt": "TV Shows gallery artwork 5"
+    },
+    {
+      "id": "kpop-gallery-1",
+      "cat": "kpop",
+      "title": "K-Pop Fan Gallery 1",
+      "alt": "K-Pop gallery artwork 1"
+    },
+    {
+      "id": "kpop-gallery-2",
+      "cat": "kpop",
+      "title": "K-Pop Fan Gallery 2",
+      "alt": "K-Pop gallery artwork 2"
+    },
+    {
+      "id": "kpop-gallery-3",
+      "cat": "kpop",
+      "title": "K-Pop Fan Gallery 3",
+      "alt": "K-Pop gallery artwork 3"
+    },
+    {
+      "id": "kpop-gallery-4",
+      "cat": "kpop",
+      "title": "K-Pop Fan Gallery 4",
+      "alt": "K-Pop gallery artwork 4"
+    },
+    {
+      "id": "kpop-gallery-5",
+      "cat": "kpop",
+      "title": "K-Pop Fan Gallery 5",
+      "alt": "K-Pop gallery artwork 5"
+    },
+    {
+      "id": "comics-gallery-1",
+      "cat": "comics",
+      "title": "Comic Universe Gallery 1",
+      "alt": "Comics gallery artwork 1"
+    },
+    {
+      "id": "comics-gallery-2",
+      "cat": "comics",
+      "title": "Comic Universe Gallery 2",
+      "alt": "Comics gallery artwork 2"
+    },
+    {
+      "id": "comics-gallery-3",
+      "cat": "comics",
+      "title": "Comic Universe Gallery 3",
+      "alt": "Comics gallery artwork 3"
+    },
+    {
+      "id": "comics-gallery-4",
+      "cat": "comics",
+      "title": "Comic Universe Gallery 4",
+      "alt": "Comics gallery artwork 4"
+    },
+    {
+      "id": "comics-gallery-5",
+      "cat": "comics",
+      "title": "Comic Universe Gallery 5",
+      "alt": "Comics gallery artwork 5"
+    },
+    {
+      "id": "manga-gallery-1",
+      "cat": "manga",
+      "title": "Manga Art Gallery 1",
+      "alt": "Manga gallery artwork 1"
+    },
+    {
+      "id": "manga-gallery-2",
+      "cat": "manga",
+      "title": "Manga Art Gallery 2",
+      "alt": "Manga gallery artwork 2"
+    },
+    {
+      "id": "manga-gallery-3",
+      "cat": "manga",
+      "title": "Manga Art Gallery 3",
+      "alt": "Manga gallery artwork 3"
+    },
+    {
+      "id": "manga-gallery-4",
+      "cat": "manga",
+      "title": "Manga Art Gallery 4",
+      "alt": "Manga gallery artwork 4"
+    },
+    {
+      "id": "manga-gallery-5",
+      "cat": "manga",
+      "title": "Manga Art Gallery 5",
+      "alt": "Manga gallery artwork 5"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "anime-trailer",
+      "cat": "anime",
+      "title": "Anime Community Trailer",
+      "status": "upcoming",
+      "date": "2026-10-05",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "gaming-trailer",
+      "cat": "gaming",
+      "title": "Gaming Community Trailer",
+      "status": "recently-released",
+      "date": "2026-10-06",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "movies-trailer",
+      "cat": "movies",
+      "title": "Movies Community Trailer",
+      "status": "upcoming",
+      "date": "2026-10-07",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "tv-trailer",
+      "cat": "tv",
+      "title": "TV Shows Community Trailer",
+      "status": "recently-released",
+      "date": "2026-10-08",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "kpop-trailer",
+      "cat": "kpop",
+      "title": "K-Pop Community Trailer",
+      "status": "upcoming",
+      "date": "2026-10-09",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "comics-trailer",
+      "cat": "comics",
+      "title": "Comics Community Trailer",
+      "status": "recently-released",
+      "date": "2026-10-10",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+      "id": "manga-trailer",
+      "cat": "manga",
+      "title": "Manga Community Trailer",
+      "status": "upcoming",
+      "date": "2026-10-11",
+      "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    }
+  ],
+  "releases": [
+    {
+      "id": "anime-release-1",
+      "cat": "anime",
+      "title": "Anime Fan Spotlight",
+      "date": "2026-10-10",
+      "status": "Upcoming"
+    },
+    {
+      "id": "anime-release-2",
+      "cat": "anime",
+      "title": "Anime Community Feature",
+      "date": "2026-11-03",
+      "status": "Upcoming"
+    },
+    {
+      "id": "gaming-release-1",
+      "cat": "gaming",
+      "title": "Gaming Fan Spotlight",
+      "date": "2026-10-11",
+      "status": "Upcoming"
+    },
+    {
+      "id": "gaming-release-2",
+      "cat": "gaming",
+      "title": "Gaming Community Feature",
+      "date": "2026-11-04",
+      "status": "Upcoming"
+    },
+    {
+      "id": "movies-release-1",
+      "cat": "movies",
+      "title": "Movies Fan Spotlight",
+      "date": "2026-10-12",
+      "status": "Upcoming"
+    },
+    {
+      "id": "movies-release-2",
+      "cat": "movies",
+      "title": "Movies Community Feature",
+      "date": "2026-11-05",
+      "status": "Upcoming"
+    },
+    {
+      "id": "tv-release-1",
+      "cat": "tv",
+      "title": "TV Shows Fan Spotlight",
+      "date": "2026-10-13",
+      "status": "Upcoming"
+    },
+    {
+      "id": "tv-release-2",
+      "cat": "tv",
+      "title": "TV Shows Community Feature",
+      "date": "2026-11-06",
+      "status": "Upcoming"
+    },
+    {
+      "id": "kpop-release-1",
+      "cat": "kpop",
+      "title": "K-Pop Fan Spotlight",
+      "date": "2026-10-14",
+      "status": "Upcoming"
+    },
+    {
+      "id": "kpop-release-2",
+      "cat": "kpop",
+      "title": "K-Pop Community Feature",
+      "date": "2026-11-07",
+      "status": "Upcoming"
+    },
+    {
+      "id": "comics-release-1",
+      "cat": "comics",
+      "title": "Comics Fan Spotlight",
+      "date": "2026-10-15",
+      "status": "Upcoming"
+    },
+    {
+      "id": "comics-release-2",
+      "cat": "comics",
+      "title": "Comics Community Feature",
+      "date": "2026-11-08",
+      "status": "Upcoming"
+    },
+    {
+      "id": "manga-release-1",
+      "cat": "manga",
+      "title": "Manga Fan Spotlight",
+      "date": "2026-10-16",
+      "status": "Upcoming"
+    },
+    {
+      "id": "manga-release-2",
+      "cat": "manga",
+      "title": "Manga Community Feature",
+      "date": "2026-11-09",
+      "status": "Upcoming"
+    }
+  ]
+}
